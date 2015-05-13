@@ -1,0 +1,34 @@
+# RubyMotion
+
+## Quoi ?
+
+- développer des applications Mac et iOS en Ruby
+- La syntaxe et le modèle-objet sont similaires
+
+## Qui ?
+
+- Laurent Sansonetti, ancien d’Apple, développeur de MacRuby
+- Trois personnes à Hipbyte
+
+## Comment ?
+
+- basé sur le runtime Objective-C
+- compilé statiquement avec LLVM
+- bridge 1:1 avec Cocoa
+
+## Pourquoi ?
+
+- expérience de Ruby et pas d’Objective-C
+- concision du code
+- plus dynamique qu’Objective-C
+- utiliser d’autres outils que Xcode
+- intégrer des dépendances facilement
+- REPL et debugger interactif
+- mêmes performances
+- pas de retard dans les APIs
+
+## Pourquoi pas ?
+
+- temps de compilation
+- toolchain alternative
+- payer pour compiler
